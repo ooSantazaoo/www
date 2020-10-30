@@ -4,11 +4,14 @@
         <title>Santa Nakano</title>
     </head>
     <body>
-        <h1>My First Heading</h1>
-        <p>My First Paragraph</p>
+        <h1>SANTA NAKANO</h1>
+        <p>นายซันตะ นาคาโน</p>
         <img src="cat2.jpg">
+        <img src="cat1.jpg">
         <br>
-        <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+        <a href="http://www.it.kmitl.ac.th">KMITL IT link</a>
+        <a href="http://www.google.com">google link</a>
+        <a href="http://www.facebook.com">facebook link</a>
 
         <h2>The unordered list</h2>
         <ul>
