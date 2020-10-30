@@ -9,11 +9,11 @@
         <img src="cat2.jpg">
         <img src="cat5.jpg">
         <br>
-        <a href="http://www.it.kmitl.ac.th">KMITL IT link</a>
-        <a href="http://www.google.com">google link</a>
-        <a href="http://www.facebook.com">facebook link</a>
+        <a href="http://www.it.kmitl.ac.th">KMITL IT link</a><br>
+        <a href="http://www.google.com">google link</a><br>
+        <a href="http://www.facebook.com">facebook link</a><br>
 
-        <h2>The unordered list</h2>
+        <h2>เรื่องตลก</h2>
         <ul>
             <li>Google</li>
             <li>Yahoo</li>
