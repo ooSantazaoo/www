@@ -7,7 +7,7 @@
         <h1>SANTA NAKANO</h1>
         <p>นายซันตะ นาคาโน</p>
         <img src="cat2.jpg">
-        <img src="cat.jpeg">
+        <img src="cat5.jpg">
         <br>
         <a href="http://www.it.kmitl.ac.th">KMITL IT link</a>
         <a href="http://www.google.com">google link</a>
